@@ -1,0 +1,1 @@
+This is a MERN stack e-commerce platform offering a seamless shopping experience. It includes a responsive UI with React.js, a Node.js/Express.js backend, and MongoDB for data storage. Features include user authentication, product search, cart management, order processing. 
